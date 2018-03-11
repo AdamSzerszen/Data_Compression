@@ -5,9 +5,15 @@
 #ifndef ARITHMETICCODING_ARITHMETICSERVICE_H
 #define ARITHMETICCODING_ARITHMETICSERVICE_H
 
+#include <string>
+
+using std::string;
 
 class ArithmeticService {
+public:
+    void Encode(string file_path);
 
+    void Decode(string file_path);
 };
 
 
