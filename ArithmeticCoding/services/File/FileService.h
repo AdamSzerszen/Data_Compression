@@ -1,0 +1,14 @@
+//
+// Created by owaat on 11.03.2018.
+//
+
+#ifndef ARITHMETICCODING_FILESERVICE_H
+#define ARITHMETICCODING_FILESERVICE_H
+
+
+class FileService {
+
+};
+
+
+#endif //ARITHMETICCODING_FILESERVICE_H
