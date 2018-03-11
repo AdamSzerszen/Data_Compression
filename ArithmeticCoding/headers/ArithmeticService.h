@@ -1,0 +1,14 @@
+//
+// Created by owaat on 11.03.2018.
+//
+
+#ifndef ARITHMETICCODING_ARITHMETICSERVICE_H
+#define ARITHMETICCODING_ARITHMETICSERVICE_H
+
+
+class ArithmeticService {
+
+};
+
+
+#endif //ARITHMETICCODING_ARITHMETICSERVICE_H
