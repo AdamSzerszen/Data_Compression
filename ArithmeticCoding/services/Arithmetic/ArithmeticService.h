@@ -6,8 +6,13 @@
 #define ARITHMETICCODING_ARITHMETICSERVICE_H
 
 #include <string>
+#include <bitset>
+#include <iostream>
 
 using std::string;
+using std::bitset;
+using std::cout;
+using std::endl;
 
 class ArithmeticService {
 public:
